@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willkommen bei BharatCoin (BRC)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #FF9933; /* Orange der indischen Flagge */
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        main {
+            padding: 2em;
+        }
+        footer {
+            background-color: #138808; /* Grün der indischen Flagge */
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .ashoka-chakra {
+            color: #000080; /* Blau der indischen Flagge */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen bei BharatCoin (BRC)</h1>
+    </header>
+    <main>
+        <h2>Über BharatCoin</h2>
+        <p>BharatCoin (BRC) ist eine digitale Währung, die von der Reserve Bank of India (RBI) als mögliche Zentralbank-Digitalwährung (CBDC) in Betracht gezogen wird. Sie bietet eine sichere, kostengünstige und effiziente Alternative zu traditionellen Zahlungsmethoden.</p>
+        <h2>Vorteile von BharatCoin</h2>
+        <ul>
+            <li>Schnelle und sichere Transaktionen</li>
+            <li>Geringe Transaktionskosten</li>
+            <li>Hohe Sicherheit und Zuverlässigkeit</li>
+            <li>Unterstützung für Peer-to-Peer-Transaktionen</li>
+            <li>Integration in verschiedene Plattformen und Anwendungen</li>
+        </ul>
+        <h2>Kontakt</h2>
+        <p>Für weitere Informationen kontaktieren Sie uns unter <a href="mailto:info@bharatcoin.com">info@bharatcoin.com</a>.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 BharatCoin. Alle Rechte vorbehalten.</p>
+        <p class="ashoka-chakra">&#x2693;</p>
+    </footer>
+    <audio autoplay loop>
+        <source src="indian-music.mp3" type="audio/mpeg">
+        Ihr Browser unterstützt das Audio-Element nicht.
+    </audio>
+</body>
+</html>
